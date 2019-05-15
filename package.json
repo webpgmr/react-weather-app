@@ -1,5 +1,6 @@
 {
   "name": "product-comparison",
+  "homepage": "https://github.com/webpgmr/react-weather-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
